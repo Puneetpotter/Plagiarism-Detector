@@ -1,4 +1,7 @@
-# DiffLib
+# Plagiarism Detector
+A plagiarism checker uses advanced database software to scan for matches between your text and existing texts. They are used by universities to scan student assignments. There are also commercial plagiarism checkers you can use to check your own work before submitting.
+
+## DiffLib
 
 This module provides classes and functions for comparing sequences. It can be used for example, for comparing files, and can produce information about file differences in various formats, including HTML and context and unified diffs.
 
